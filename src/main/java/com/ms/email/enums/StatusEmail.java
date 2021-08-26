@@ -1,6 +1,6 @@
 package com.ms.email.enums;
 
 public enum StatusEmail {
-	SET,
+	SEND,
 	ERROR
 }
